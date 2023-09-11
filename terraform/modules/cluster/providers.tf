@@ -27,7 +27,7 @@ terraform {
 
     grafana = {
       source  = "grafana/grafana"
-      version = "1.34.0"
+      version = "2.3.0"
     }
 
     tls = {
